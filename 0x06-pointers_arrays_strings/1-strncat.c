@@ -2,6 +2,7 @@
 
 /**
  * _strcat - joins two strings with n bytes
+ * *_strncat* - .........
  * @dest: copy to
  * @src: copy from
  * @n: number of char to be copied
