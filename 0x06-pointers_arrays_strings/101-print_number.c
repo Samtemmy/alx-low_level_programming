@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /**
  * print_number - prints an integer.
  * @n: inputs integer
@@ -18,7 +18,7 @@ void print_number(int n)
 		a = n;
 	}
 	b = a;
-	count = n1;
+	count = n;
 	while (b > 9)
 	{
 		b /= 10;
